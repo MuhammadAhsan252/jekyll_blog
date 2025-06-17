@@ -1,0 +1,17 @@
+- name: "General"
+  occupation: "Developer"
+
+- name: "Lifestyle"
+  occupation: "Designer"
+
+- name: "Travel"
+  occupation: "Developer"
+
+- name: "Design"
+  occupation: "Designer"
+
+- name: "Creative"
+  occupation: "Developer"
+
+- name: "Educaion"
+  occupation: "Designer"
